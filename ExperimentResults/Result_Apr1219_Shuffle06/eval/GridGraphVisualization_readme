@@ -1,0 +1,16 @@
+grid 3 3 2
+vertical capacity 0 1
+horizontal capacity 1 0
+minimum width 1 1
+minimum spacing 0 0
+via spacing 0 0
+0 0 10 10
+num net 1
+A 0 2 1
+ 5  5 1
+25  5 1
+4
+1 0 1   2 0 1   0
+1 1 1   2 1 1   0
+0 0 2   0 1 2   0
+1 1 2   1 2 2   0
