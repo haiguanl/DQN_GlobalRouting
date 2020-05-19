@@ -1,0 +1,15 @@
+name: DRL_GR
+
+dependencies:
+  - python=3.6
+  - matplotlib
+  - numpy
+  - scipy
+  - basemap
+  - pandas
+  - pillow
+  - keras
+  - tensorflow=1.14
+
+
+  
