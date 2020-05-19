@@ -31,9 +31,9 @@ conda deactivate
 #### 2. Running Experiment
 To run the experiment, first make sure the conda environment is activated. 
 The following command runs the pipeline, which include all function blocks including the problem generator, but not the evaluation part. 
-'''
+```
 python GenSolEvalComp_Pipeline.py --benchNumber 100 --gridSize 8 --netNum 20 --capacity 4 --maxPinNum 5 --reducedCapNum 3
-'''
+```
 Arguments definitions:
 - benchNumber: number of problems in the experiment
 - grid size: size of a problem, e.g. 8 means the problem space is on an 8-by-8 two layers routing area
