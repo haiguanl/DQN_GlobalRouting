@@ -21,7 +21,7 @@ The following set up and manual is based on Ubuntu system, and may slightly vary
 To setup your environment (which contains depencies with the correct version), use the conda environment specified in environment.yml by simply doing the following with a recent version of conda in Linux/Bash (https://conda.io/projects/conda/en/latest/user-guide/install/index.html), in the repository path:
 ```
 conda env create
-source activate DRL_GRD
+source activate DRL_GR
 ```
 To deactivate the virtual environment:
 '''
